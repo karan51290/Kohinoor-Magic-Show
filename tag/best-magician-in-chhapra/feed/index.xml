@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Best magician in chhapra &#8211; Kohinoor Magic Show</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>India&#8217;s Leading &#38; Most Reputed Magician/Artist Chain!</description>
+	<lastBuildDate>Thu, 03 Aug 2023 08:39:17 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/02/cropped-cropped-Icongoogle-32x32.jpg</url>
+	<title>Best magician in chhapra &#8211; Kohinoor Magic Show</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CHHAPRA SERVICES</title>
+		<link>./../../../chhapra-services/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 03 Aug 2023 08:12:53 +0000</pubDate>
+				<category><![CDATA[BIHAR]]></category>
+		<category><![CDATA[Magician]]></category>
+		<category><![CDATA[Best magician in chhapra]]></category>
+		<category><![CDATA[Birthday party magician]]></category>
+		<category><![CDATA[Corporate Magician]]></category>
+		<category><![CDATA[kohinoor magic show]]></category>
+		<category><![CDATA[Magician for award performance]]></category>
+		<category><![CDATA[Magician for new year night]]></category>
+		<category><![CDATA[Wedding Magician]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=2678</guid>
+
+					<description><![CDATA[Book Now Check Availability SELECT YOUR REQUIREMENT MAGICIANS LIVE TATTOOS PUPPET SHOWS GAMES ENTERTAINERS Book Now Check Availability]]></description>
+										<content:encoded><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  <body>
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the below form. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../payment-page/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+  </body>
+</html>
+
+
+
+<figure class="wp-block-table is-style-stripes ticss-9cfd9ef2 has-medium-font-size coblocks-animate" data-coblocks-animation="zoomIn"><table class="has-neve-link-color-color has-pale-ocean-gradient-background has-text-color has-background"><thead><tr><th class="has-text-align-center" data-align="center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-nv-dark-bg-color"><strong>SELECT YOUR REQUIRE</strong>MENT</mark></th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center"><strong><a href="./../../../chhapra-magicians/index.html" data-type="URL" data-id="./../../../delhi-ncr-magician-tickets/index.html">MAGICIANS</a></strong></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>LIVE TATTOOS</strong></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>PUPPET SHOWS</strong></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>GAMES ENTERTAINERS</strong></td></tr><tr><td class="has-text-align-center" data-align="center"></td></tr><tr><td class="has-text-align-center" data-align="center"></td></tr><tr><td class="has-text-align-center" data-align="center"></td></tr><tr><td class="has-text-align-center" data-align="center"></td></tr><tr><td class="has-text-align-center" data-align="center"></td></tr><tr><td class="has-text-align-center" data-align="center"></td></tr><tr><td class="has-text-align-center" data-align="center"></td></tr><tr><td class="has-text-align-center" data-align="center"></td></tr></tbody></table></figure>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  <body>
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the below form. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../payment-page/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+  </body>
+</html>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

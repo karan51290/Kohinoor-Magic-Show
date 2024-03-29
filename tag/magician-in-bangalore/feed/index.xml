@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>magician in bangalore &#8211; Kohinoor Magic Show</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>India&#8217;s Leading &#38; Most Reputed Magician/Artist Chain!</description>
+	<lastBuildDate>Thu, 20 Jul 2023 09:47:27 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/02/cropped-cropped-Icongoogle-32x32.jpg</url>
+	<title>magician in bangalore &#8211; Kohinoor Magic Show</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>BENGALURU SERVICES</title>
+		<link>./../../../bengaluru-services/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 13:53:17 +0000</pubDate>
+				<category><![CDATA[Bengaluru]]></category>
+		<category><![CDATA[Karnataka]]></category>
+		<category><![CDATA[magician in bangalore]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=2451</guid>
+
+					<description><![CDATA[NOTE: – Price list contains various tickets, out of which a few may only be available in the selected areas of a State OR at particular date-time. Book Now Check Availability Payment Page SELECT YOUR REQUIREMENT MAGICIAN LIVE TATTOO BALLOON MODELLING Book Now Check Availability Payment Page]]></description>
+										<content:encoded><![CDATA[
+<p><strong>NOTE: –</strong> Price list contains various tickets, out of which a few may only be available in the selected areas of a State OR at particular date-time.</p>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  <body>
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+  </body>
+</html>
+
+
+
+<figure class="wp-block-table is-style-stripes coblocks-animate" style="font-size:24px" data-coblocks-animation="zoomIn"><table class="has-pale-ocean-gradient-background has-background"><thead><tr><th class="has-text-align-center" data-align="center"><strong>SELECT YOUR REQUIRE</strong>MENT</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-neve-link-color-color"><a href="./../../../bengaluru-magician-services/index.html">MAGICIAN</a></mark></strong></td></tr><tr><td class="has-text-align-center" data-align="center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-neve-link-color-color"><strong><a href="./../../../live-tattoo-2500-00/index.html">LIVE TATTOO</a></strong></mark></td></tr><tr><td class="has-text-align-center" data-align="center"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-neve-link-color-color"><a href="./../../../balloon-modelling-2500-00/index.html">BALLOON MODELLING</a></mark></strong></td></tr><tr><td class="has-text-align-center" data-align="center"></td></tr><tr><td class="has-text-align-center" data-align="center"></td></tr></tbody></table></figure>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  <body>
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+  </body>
+</html>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

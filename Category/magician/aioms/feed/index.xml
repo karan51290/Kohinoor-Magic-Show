@@ -1,0 +1,1383 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Aioms &#8211; Kohinoor Magic Show</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>India&#8217;s Leading &#38; Most Reputed Magician/Artist Chain!</description>
+	<lastBuildDate>Mon, 08 Aug 2022 13:19:24 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2022/02/cropped-cropped-Icongoogle-32x32.jpg</url>
+	<title>Aioms &#8211; Kohinoor Magic Show</title>
+	<link>./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>₹ 15,500.00 + Conveyance Only Magician Ticket &#8220;Premium&#8221;</title>
+		<link>./../../../../%e2%82%b9-15500-00-conveyance-only-magician-ticket-premium/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 13:19:22 +0000</pubDate>
+				<category><![CDATA[Aioms]]></category>
+		<category><![CDATA[Magician]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=2304</guid>
+
+					<description><![CDATA[Share the address of the venue with our representative to know the exact rate for this ticket! Book Now Check Availability Payment Page Book Now Check Availability Payment Page]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size coblocks-animate" data-coblocks-animation="zoomIn">Share the address of the venue with our representative to know the exact rate for this ticket! </p>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio coblocks-animate" data-coblocks-animation="slideInBottom"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe title="Live Kohinoor Magic Show | Durga Puja Greater Noida" width="1200" height="675" src="https://www.youtube.com/embed/bTjJojufURM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>₹ 15,000.00 + Conveyance Only Magician Ticket &#8220;Premium&#8221;</title>
+		<link>./../../../../%e2%82%b9-15000-00-conveyance-only-magician-ticket-premium/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 13:11:07 +0000</pubDate>
+				<category><![CDATA[Aioms]]></category>
+		<category><![CDATA[Magician]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=2301</guid>
+
+					<description><![CDATA[Share the address of the venue with our representative to know the exact rate for this ticket! Book Now Check Availability Payment Page Book Now Check Availability Payment Page]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size coblocks-animate" data-coblocks-animation="zoomIn">Share the address of the venue with our representative to know the exact rate for this ticket!</p>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio coblocks-animate" data-coblocks-animation="slideInRight"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe title="Best magician in delhi | Call : +91 90843 44824 | Kohinoor magic show | Magician kohinoor omansh" width="1200" height="900" src="https://www.youtube.com/embed/ia2G8Sm-IVs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>₹ 14,500.00 + Conveyance Only Magician Ticket &#8220;Premium&#8221;</title>
+		<link>./../../../../%e2%82%b9-14500-00-conveyance-only-magician-ticket-premium/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 13:08:38 +0000</pubDate>
+				<category><![CDATA[Aioms]]></category>
+		<category><![CDATA[Magician]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=2298</guid>
+
+					<description><![CDATA[Share the address of the venue with our representative to know the exact rate for this ticket! Book Now Check Availability Payment Page Book Now Check Availability Payment Page]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size coblocks-animate" data-coblocks-animation="zoomIn">Share the address of the venue with our representative to know the exact rate for this ticket!</p>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio coblocks-animate" data-coblocks-animation="slideInLeft"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe title="Best Magician In Delhi | Best Magician In Kanpur | Best Magician In Jaipur | +918882383540" width="1200" height="675" src="https://www.youtube.com/embed/kq58O5hb5sw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>₹ 14,000.00 + Conveyance Only Magician Ticket &#8220;Premium&#8221;</title>
+		<link>./../../../../%e2%82%b9-14000-00-conveyance-only-magician-ticket-premium/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 13:06:23 +0000</pubDate>
+				<category><![CDATA[Aioms]]></category>
+		<category><![CDATA[Magician]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=2295</guid>
+
+					<description><![CDATA[Share the address of the venue with our representative to know the exact rate for this ticket! Book Now Check Availability Payment Page Book Now Check Availability Payment Page]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size coblocks-animate" data-coblocks-animation="zoomIn">Share the address of the venue with our representative to know the exact rate for this ticket!</p>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio coblocks-animate" data-coblocks-animation="zoomIn"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Best magician in dehradun (Trailer) | Magician kohinoor omansh | +919084344824" width="1200" height="900" src="https://www.youtube.com/embed/s40Dz9FfUxs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>₹ 13,500.00 + Conveyance Only Magician Ticket &#8220;Premium&#8221;</title>
+		<link>./../../../../%e2%82%b9-13500-00-conveyance-only-magician-ticket-premium/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 13:04:04 +0000</pubDate>
+				<category><![CDATA[Aioms]]></category>
+		<category><![CDATA[Magician]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=2292</guid>
+
+					<description><![CDATA[Share the address of the venue with our representative to know the exact rate for this ticket! Book Now Check Availability Payment Page Book Now Check Availability Payment Page]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size coblocks-animate" data-coblocks-animation="zoomIn">Share the address of the venue with our representative to know the exact rate for this ticket!</p>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio coblocks-animate" data-coblocks-animation="clipVertical"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Best Magician In Sonipat Hariyana | +918709691192 | Magician Kohinoor Omansh | Kohinoor Magic Show" width="1200" height="675" src="https://www.youtube.com/embed/gglCM4Ha9ZI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio coblocks-animate" data-coblocks-animation="clipVertical"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Best Magician in Delhi NCR | Best Magician For Birthday Party | +919084344824" width="1200" height="675" src="https://www.youtube.com/embed/3xPS34ffbf8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+</div>
+</div>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>₹ 13,000.00 + Conveyance Only Magician Ticket &#8220;Premium&#8221;</title>
+		<link>./../../../../%e2%82%b9-13000-00-conveyance-only-magician-ticket-premium/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 13:00:45 +0000</pubDate>
+				<category><![CDATA[Aioms]]></category>
+		<category><![CDATA[Magician]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=2289</guid>
+
+					<description><![CDATA[Share the address of the venue with our representative to know the exact rate for this ticket! Book Now Check Availability Payment Page Book Now Check Availability Payment Page]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">Share the address of the venue with our representative to know the exact rate for this ticket!</p>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio coblocks-animate" data-coblocks-animation="slideInBottom"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Professional Magician in Patna | Best Magician Performance P&amp;M Mall Patna" width="1200" height="675" src="https://www.youtube.com/embed/hGIae9XKCts?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>₹ 12,500.00 + Conveyance Only Magician Ticket &#8220;Premium&#8221;</title>
+		<link>./../../../../%e2%82%b9-12500-00-conveyance-only-magician-ticket-premium/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 12:58:33 +0000</pubDate>
+				<category><![CDATA[Aioms]]></category>
+		<category><![CDATA[Magician]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=2286</guid>
+
+					<description><![CDATA[Share the address of the venue with our representative to know the exact rate for this ticket! Book Now Check Availability Payment Page Book Now Check Availability Payment Page]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">Share the address of the venue with our representative to know the exact rate for this ticket!</p>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio coblocks-animate" data-coblocks-animation="slideInRight"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Magician Kohinoor Omansh Live DLF Mall Delhi | Magician For Corporate Event" width="1200" height="675" src="https://www.youtube.com/embed/0r9M7PoWxr0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>₹ 12,000.00 + Conveyance Only Magician Ticket &#8220;Premium&#8221;</title>
+		<link>./../../../../%e2%82%b9-12000-00-conveyance-only-magician-ticket-premium/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 12:56:26 +0000</pubDate>
+				<category><![CDATA[Aioms]]></category>
+		<category><![CDATA[Magician]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=2283</guid>
+
+					<description><![CDATA[Share the address of the venue with our representative to know the exact rate for this ticket! Book Now Check Availability Payment Page Book Now Check Availability Payment Page]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">Share the address of the venue with our representative to know the exact rate for this ticket!</p>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio coblocks-animate" data-coblocks-animation="slideInLeft"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Best Magician in Gorakhpur | +918882383540 | Kohinoor Magic Show #magicianingorakhpur" width="1200" height="675" src="https://www.youtube.com/embed/4cEDBGx7QsY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>₹ 11,500.00 + Conveyance Only Magician Ticket &#8220;Premium&#8221;</title>
+		<link>./../../../../%e2%82%b9-11500-00-conveyance-only-magician-ticket-premium/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 12:54:07 +0000</pubDate>
+				<category><![CDATA[Aioms]]></category>
+		<category><![CDATA[Magician]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=2280</guid>
+
+					<description><![CDATA[Share the address of the venue with our representative to know the exact rate for this ticket! Book Now Check Availability Payment Page Book Now Check Availability Payment Page]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">Share the address of the venue with our representative to know the exact rate for this ticket!</p>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio coblocks-animate" data-coblocks-animation="zoomIn"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Kohinoor Magic Show || DLF Mall Of India Noida || Magician Kohinoor Omansh" width="1200" height="675" src="https://www.youtube.com/embed/h4LMZ35yUdM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>₹ 11,000.00 + Conveyance Only Magician Ticket &#8220;Premium&#8221;</title>
+		<link>./../../../../%e2%82%b9-11000-00-conveyance-only-magician-ticket-premium/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 12:51:54 +0000</pubDate>
+				<category><![CDATA[Aioms]]></category>
+		<category><![CDATA[Magician]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=2277</guid>
+
+					<description><![CDATA[Share the address of the venue with our representative to know the exact rate for this ticket! Book Now Check Availability Payment Page Book Now Check Availability Payment Page]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">Share the address of the venue with our representative to know the exact rate for this ticket!</p>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio coblocks-animate" data-coblocks-animation="slideInBottom"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Corporate Magician in Delhi Ncr | V~Mart Head Office Guru gram | Kohinoor Magic Show" width="1200" height="675" src="https://www.youtube.com/embed/8CYoKOrYIxg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.buttonbook {
+  border: none;
+  color: black;
+  margin: 15px;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #fcac00 0%, #ff7700 51%);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonbook1:hover{box-shadow: 0 12px 16px 0 rgba(0,0.24,0,0),0 17px 50px 0 rgba(0,0.19,0,0);}
+</style>
+  
+<center> 
+	<button class="buttonbook buttonbook1" onclick="myFunctionBook()"><i class="fa fa-handshake-o"></i><b> Book Now</b></button>
+	<a href="./../../../../check-availability/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-thumbs-o-up"></i><b> Check Availability</b></button></a>
+	<a href="./../../../../payment-page/index.html" target="_blank" rel="noopener"><button class="buttonbook buttonbook1"><i class="fa fa-paper-plane-o"></i><b> Payment Page</b></button></a>
+</center>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function myFunctionBook() {
+swal({
+ 
+ title: "Have you checked the availability?",
+  text: "If not, then fill the Availability Form First. Else proceed!",
+  icon: "warning",
+  buttons: ["No", "Yes"],
+  dangerMode: false,
+})
+.then((proceed) => {
+  if (proceed) {
+    window.location = "./../../../../appointment-booking/index.html";
+  } else {
+    swal("Fill the availability form first", {
+      icon: "warning",
+    });
+  }
+});
+}
+</script>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
